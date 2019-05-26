@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<style>
+h1 {
+  margin-left: 40px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 36px;
+}
+  
+p {
+  width: 680px;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  font-family: Georgia, Times, serif;
+  font-size: 18px;
+  line-height: 1.8;
+}
+  
+span {
+  font-family: 'Courier New', monospace;
+}
+</style>
+
+<h1>Monospaced fonts</h1>
+
+<p>
+In a monospaced font, the letters all occupy the same amount of horizontal space. In variable-width fonts, the size of letters and spacings between them can be different.
+</p>
+
+<p>
+You're editing this paragraph in a code editor with a monospace font, but styling it with a variable-width font! As well as making coding easier, monospace fonts are fun because you can create ASCII art with them. Style the following span with a monospace font and see what happens!
+</p>
+
+<span>
+  ........_.......______.....______..____
+  _.._____........_..............._......<br>
+  ......./.\.....'.____.\...'.___..||_...
+  _||_..._|....../.\............./.|_....<br>
+  ....../._.\...|.(___.\_|/..'...\_|..|.|
+  ....|.|......./._.\....._..--.`|.|-'...<br>
+  ...../.___.\..._.____`..|.|.........|.|
+  ....|.|....../.___.\...[.`/'`\]|.|.....<br>
+  ..._/./...\.\_|.\____).|\.`.___.'\._|.|
+  _.._|.|_..._/./...\.\_..|.|....|.|,....<br>
+  ..|____|.|____|\______.'.`.____..'|____
+  _||_____|.|____|.|____|[___]...\__/....<br>
+</span>

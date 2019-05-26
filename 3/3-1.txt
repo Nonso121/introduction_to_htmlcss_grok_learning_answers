@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        background-color: rgb(0,0,0);
+        width: 700px;
+        color: rgb(0, 255, 0);
+        font-family: monospace;
+        line-height: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hacker Typing</h1>
+    <p>In the early days of computers monitors, the screens could only show one colour on a black background, this colour was usually green or orange. The early computer interfaces had no graphics apart from text and no mouse or touch control, only keyboard input.</p>
+    <p>To this day the <em>Green Screen</em> visual style of bright green text on a black background is a symbol for hackers and computer programmers, appearing in popular movies such as <em>The Matrix (1999)</em>.</p>
+  </body>
+</html>

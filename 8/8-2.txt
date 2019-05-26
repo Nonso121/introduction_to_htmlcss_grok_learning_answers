@@ -1,0 +1,12 @@
+* { box-sizing: border-box; }
+
+.cheshire {
+  width: 400px;
+  height: 400px;
+  background-image: url('cheshire-cat.png');
+  border: 1px dashed black;
+}
+
+.cheshire:hover {
+  background-image: url('cheshire-grin.png');
+}

@@ -1,0 +1,35 @@
+	html:
+<!DOCTYPE html>
+<head>
+  <title>Shopping list</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+  <ul>
+    <li class="healthy">apples</li>
+    <li>bacon</li>
+    <li class="essential">bread</li>
+    <li class="essential">eggs</li>
+    <li class="essential">milk</li>
+    <li class="healthy">muesli</li>
+    <li class="healthy">rocket</li>
+    <li>soft drink</li>
+    <li class="essential">yoghurt</li>
+  </ul>
+</body>
+
+
+
+
+
+	css:
+.essential {
+  color: red;
+  font-weight: bold;
+}
+
+.healthy {
+  color: green;
+  font-style: italic;
+}

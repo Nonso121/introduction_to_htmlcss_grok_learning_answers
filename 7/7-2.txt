@@ -1,0 +1,47 @@
+* { box-sizing: border-box; }
+
+body {
+  background-image: url(athletes-footer.jpg);
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px;
+}
+
+h1 {
+  color: rgb(255, 112, 0);
+}
+
+article {
+  padding: 30px;
+  width: 480px;
+}
+
+a {
+  color: rgb(29, 174, 192);
+  text-decoration: none;
+}
+
+
+footer { 
+  background-color: rgb(75, 75, 75);
+  color: white;
+  text-align: center;
+}
+
+footer > ul {
+  display: inline-block;
+}
+
+footer > ul > li {
+  display: inline-block;
+  padding: 10px;
+}
+
+footer > ul > li > a {
+  color: rgb(255, 112, 0);
+}

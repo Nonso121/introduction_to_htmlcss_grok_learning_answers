@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<h1 style="color: powderblue">Powder Blue</h1>
+<h1 style="color: lightblue">Light Blue</h1>
+<h1 style="color: skyblue">Sky Blue</h1>
+<h1 style="color: cornflowerblue">Cornflower Blue</h1>
+<h1 style="color: royalblue">Royal Blue</h1>
+<h1 style="color: blue">Blue</h1>
+<h1 style="color: darkblue">Dark Blue</h1>
+<h1 style="color: midnightblue">Midnight Blue</h1>

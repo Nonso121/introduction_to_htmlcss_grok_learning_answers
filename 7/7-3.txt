@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Round 16 Women's World Cup: Brazil vs. Australia</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <article>
+      <h1>Round 16 Women's World Cup: Brazil vs. Australia</h1>
+      <p><strong>When:</strong> Sunday, 1:00 p.m. EDT</p>
+      <p><strong>Where:</strong> Mocton Stadium, Moncton, Canada</p>
+      <p>If they beat old foe, Brazil, it will be the third time in a row that the Matilda's have made it to the quarter finals of the Women's World Cup.</p>
+      <p>In 2007, when they reached the final eight, it was Brazil who thwarted their run with a 3-2 win. Brazil went on to be runners up against a better German side 2-0: the best that Brazil has achieved to date.  In 2011, Brazil caused the Aussies some pain again with a narrow 1-0 loss in Group D.  So you could say these teams have some World Cup history.</p>
+      <p>Can Brazil, led by the amazing Marta (like other Brazilian soccer players before her, no family name required!) best the Matildas in three consecutive World Cups?  Marta has had a quiet Cup so far, but as five-time FIFA World Player of the Year and the tournament's all-time leading goal-scorer, she will always be dangerous.</p>
+      <p>Or will the Matildas, having grown in skill and experience from the foundations of the young 2011 World Cup team, begin to even the ledger?</p>
+      <p><a href="#">Join our live coverage</a></p>
+    </article>
+
+    <aside>
+      <img src="de-vanna.jpg" alt="Lisa De Vanna">
+      <h1>Lisa De Vanna</h1>
+      <p>Lisa Marie De Vanna captains the Australian National team as a forward. She is noted for her pace and dribbling skills.</p>
+      <ul>
+        <li>102 international caps</li>
+        <li>37 international goals</li>
+        <li>30 years old</li>
+        <li>156 cm</li>
+      </ul>
+    </aside>
+  </body>
+</html>

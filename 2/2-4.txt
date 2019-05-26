@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<style>
+p {
+  font-size: 20px;
+  width: 700px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  line-height: 1.6;
+}
+h1 {
+  text-align: center;
+  font-size: 32px;
+  line-height: 1.6;
+}
+</style>
+
+<img src="hero.jpg" alt="Cropped triangular front of the Pantheon in Rome." style="width:100%">
+
+<h1>Day 5 - Rome</h1>
+
+<p>
+So today we decided to visit the Pantheon, it was pretty awesome on the inside but those photos didn't turn out so well. I've included a picture from the outside, you can see how crowded it was!
+</p>
+
+<p>
+The Colosseum is also a must-see for any trip to Rome, it's huge! And it's hard to get a photo which really captures how big it is. The line at the colosseum was long, but if you buy tickets online and show the barcode on your phone it's much faster. The museum inside was pretty awesome too, and comes with an audio guide.
+</p>
+
+<p>
+We found a little gladiator helmet at a souvenir store, so we had to buy it for Federbear. It's a bit big and surprisingly heavy, we think it's actually meant to be a paperweight.
+</p>
+
+<p>
+<img src="colosseum.jpg" alt="Inside the ruin of the Colosseum with bear wearing gladiator helmet." height="150">
+<img src="trevi.jpg" alt="The Trevi Fountain." height="150">
+<img src="pantheon.jpg" alt="Outside view of the Pantheon." height="150">
+<img src="inside.jpg" alt="Inside, looking up at the domed ceiling of the Pantheon." height="150">
+</p>
+
+<p>
+As a last bit of fun, I'm not sure where this was from, but this Lion has the weirdest facial expression, and check out the tiny bird perched on top!
+</p>
+
+<p>
+<img src="lion.jpg" alt="Statue of a lion with a small bird on the head." width="700">
+</p>

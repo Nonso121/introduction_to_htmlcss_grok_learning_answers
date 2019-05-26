@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Argleton Aquarium</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <header>
+      <h1>Argleton Aquarium</h1>
+      <h2>You won't find us on Google Maps</h2>
+    </header>
+    <div>
+      <h2>Current Exhibits</h2>
+      <img src="jellyfish.jpg">
+      <p>Come check out the memerizing Jellyfish exhibit! These amazing creatures have a fascinating life cycle which is on display now! See tiny baby jellies the size of ants and giant jellies with tentacles longer than you are tall!</p>
+    </div>
+    <div>
+      <h2>Behind the Scenes</h2>
+      <img src="octopus.jpg">
+      <p>Want to see what's invovled in running and aquarium, where the penguins sleep, and what food a squid eats? Then check out our behind-the-scenes tour!</p>
+      <p>You'll be taken by a professional marine life expert around the areas normally closed to the public. You'll see the kitchens where we prepare different kinds of food for all our sea life and hear about the amusing escapades of our surprisingly intelligent cephalopods!</p>
+    </div>
+    <div>
+      <h2>Ticket Information</h2>
+      <img src="sea_turtle.jpg">
+      <p>Adult - <span class="price">$30</span></p>
+      <p>Students and seniors - <span class="price">$20</span></p>
+      <p>Child - <span class="price">$12</span></p>
+      <p>Children under 2 get in for free!</p>
+    </div>
+  </body>
+</html>

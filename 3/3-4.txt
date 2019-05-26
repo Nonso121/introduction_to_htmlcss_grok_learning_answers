@@ -1,0 +1,57 @@
+	html:
+<!DOCTYPE html>
+<title>Triple J - Hottest 100</title>
+<link rel="stylesheet" href="main.css">
+<ol>
+  <li>
+    <p>Talk Is Cheap <em>Chet Faker</em></p>
+    <img src="talk_is_cheap.jpg">
+  </li>
+  <li>
+    <p>High (Feat. Nicole Millar) <em>Peking Duk</em></p>
+    <img src="high.jpg">
+  </li>
+  <li>
+    <p>Cosby Sweater <em>Hilltop Hood</em></p>
+    <img src="cosby_sweater.jpg">
+  </li>
+  <li>
+    <p>Stolen Dance <em>Milky Chance</em></p>
+    <img src="stolen_dance.jpg">
+  </li>
+  <li>
+    <p>Take Me Over (Feat. SAFIA) <em>Peking Duk</em></p>
+    <img src="take_me_over.jpg">
+  </li>
+</ol>
+
+
+
+
+
+	css:
+body {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(30, 30, 30);
+}
+
+ol {
+  list-style-type: upper-roman;
+  list-style-position: inside;
+}
+
+li {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+em {
+  color: rgb(220, 0, 0);
+}
+
+img {
+  height: 240px;
+}

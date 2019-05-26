@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Bitter);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Bitter', serif;
+  margin: 0 auto;
+  width: 900px;
+}
+
+/* Image properties */
+.large {
+  width: 500px;
+}
+
+.thumbnail {
+  width: 120px;
+}
+
+.selected {
+  border: 3px solid tomato;
+}
+
+.related-product {
+  width: 200px;
+}
+
+/* Text properties */
+.sale-banner {
+  text-transform: uppercase;
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.primary-color {
+  color: tomato;
+}
+
+.discounted {
+  text-decoration: line-through;
+}
+
+.button {
+  display: block;
+  background-color: tomato;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 20px 0;
+}
+
+/* Div properties */
+div {
+  padding: 0 24px;
+}
+
+.product-images {
+  display: inline-block;
+  width: 540px;
+}
+
+.product-description {
+  display: inline-block;
+  width: 350px;
+  text-align: center;
+}
+
+.related-products {
+  border-top: 1px solid black;
+  margin-top: 50px;
+}

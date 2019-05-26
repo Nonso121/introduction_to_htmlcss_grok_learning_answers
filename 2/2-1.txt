@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<p>
+<strong>HELENA:</strong> Ay, do. Persever, counterfeit sad looks,<br>
+Make mouths upon me when I turn my back,<br>
+Wink each at other, hold the sweet jest up-<br>
+This sport, well carried, shall be chronicled.
+</p>
+
+<p>
+If you have any pity, grace, or manners,<br>
+You would not make me such an argument.<br>
+But fare ye well. 'Tis partly my own fault,<br>
+Which death or absence soon shall remedy.
+</p>
+
+<p>
+<strong>LYSANDER:</strong> Stay, gentle Helena. Hear my excuse.<br>
+My love, my life, my soul, fair Helena!<br>
+</p>
+
+<p>
+<strong>HELENA:</strong> Oh, excellent!
+</p>
+
+<p>
+<strong>HERMIA <em>(to LYSANDER)</em>:</strong> Sweet, do not scorn her so.
+</p>
+
+<p>
+<strong>DEMETRIUS:</strong> If she cannot entreat, I can compel.
+</p>
+
+<p>
+<strong>LYSANDER:</strong> Thou canst compel no more than she entreat.<br>
+Thy threats have no more strength than her weak prayers.-<br>
+Helen, I love thee. By my life, I do.<br>
+I swear by that which I will lose for thee<br>
+To prove him false that says I love thee not.
+</p>
+
+<p>
+<strong>DEMETRIUS:</strong> I say I love thee more than he can do.
+</p>
+
+<p>
+<strong>LYSANDER:</strong> If thou say so, withdraw and prove it too.
+</p>

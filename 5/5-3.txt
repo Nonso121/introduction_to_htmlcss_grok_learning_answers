@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+  margin: 20px;
+}
+
+.container {
+  width: 286px;
+  background-color: orange;
+  border: 23px solid black;
+}

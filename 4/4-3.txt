@@ -1,0 +1,17 @@
+.name {
+  font-weight: bold;
+}
+.timestamp {
+  color: darkgrey;
+}
+.unread {
+  background-color: rgb(237, 239, 245);
+}
+
+p {
+  width: 400px;
+  padding: 16px;
+  margin: 0;
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+}

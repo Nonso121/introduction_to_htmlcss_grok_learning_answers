@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(brick-tile.jpg);
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.large {
+  font-size: 36px;
+  display: block;
+}
+
+div {
+  background-color: rgb(193, 12, 6);
+  width: 190px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 160px;
+}

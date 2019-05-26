@@ -1,0 +1,24 @@
+body {
+  width: 450px;
+  padding: 15px 35px;
+  margin: 20px auto;
+  border: 20px solid aliceblue;
+  font-family: serif;
+}
+
+h1, h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 100;
+  padding: 5px 0;
+  border-top: 1px dotted gray;
+  border-bottom: 1px dotted gray;
+}
+
+ul {
+  list-style: circle;
+}
+
+img {
+  width: 100%;
+}

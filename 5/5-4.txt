@@ -1,0 +1,69 @@
+	html:
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div class="container">
+      <p class="me">
+        I love the sound of thunder! :)
+      </p>
+      <p class="friend">
+        I know me too! Except when it makes my dog bark, so usually only when I'm outside.
+      </p>
+      <p class="me">
+        My dad barks too, we have to comfort him.
+      </p>
+      <p class="friend">
+        I'm so sorry, I imagine his vocal chords cause much more commotion than a small dog.
+      </p>
+      <p class="friend">
+        OH DID YOU MEAN DOG?
+      </p>
+      <p class="me">
+        You gotta be kidding me...
+      </p>
+    </div>
+  </body>
+</html>
+
+
+
+
+
+	css:
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(100, 100, 100);
+}
+
+.container {
+  width: 400px;
+  background-color: white;
+  padding: 20px;
+}
+
+p {
+  width: 260px;
+  padding: 15px;
+  margin: 0;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+
+.me {
+  color: white;
+  background-color: rgb(33, 135, 255);
+  margin-left: 100px;
+  border-bottom-right-radius: 4px;
+} 
+
+.friend {
+  color: black;
+  background-color: rgb(240, 240, 240);
+  border-bottom-left-radius: 4px;
+}

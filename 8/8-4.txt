@@ -1,0 +1,122 @@
+@import url(http://fonts.googleapis.com/css?family=Crete+Round);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+/* General document styles */
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  font-family: 'Crete Round';
+}
+
+h1 {
+  display: inline-block;
+  width: auto;
+  background-color: rgb(222, 31, 66);
+  color: white;
+  padding: 5px 15px;
+  margin-left: -30px;
+}
+
+a {
+  color: rgb(180, 31, 66);
+  text-decoration: none;
+}
+
+.logo {
+  display: inline-block;
+  font-family: 'Rock Salt';
+  font-size: 16px;
+  line-height: 16px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+/* Nav styles */
+nav {
+  background-color: rgb(222, 31, 66);
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding: 20px;
+}
+
+nav > ul > li:hover {
+  background-color: rgb(180, 31, 66);
+}
+
+nav > ul > li > a {
+  color: white;
+  text-decoration: none;
+}
+
+nav > ul > li > a:hover {
+  color: white;
+}
+
+/* Hero styles */
+.hero-review {
+  background-image: url(alaska.jpg);
+  width: 1024px;
+  height: 600px;
+  padding-top: 400px;
+}
+
+.hero-review > .hero-review-text {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+}
+
+/* Reviews section styles */
+.review > .review-text {
+  display: inline-block;
+  width: 790px;
+  margin-left: 30px;
+}
+
+/* Featured destinations section styles */
+.featured-destinations {
+  background-color: lightgrey;
+}
+
+.destination {
+  display: inline-block;
+  margin: 0 5px;
+  text-align: center;
+  background-color: white;
+  width: 225px;
+  height: 240px;
+}
+
+/* Footer styles */
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer > section {
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+}
+
+.social {
+  font-size: 30px;
+}

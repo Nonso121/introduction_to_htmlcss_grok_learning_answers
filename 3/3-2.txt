@@ -1,0 +1,42 @@
+	html:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sir Ian McKellen</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <img src="mckellen.jpg" alt="Portrait photograph of McKellen.">
+    <h1>Sir Ian McKellen</h1>
+    <p>Ian Murray McKellen, CH, CBE (born 25 May 1939) is an English actor. He is the recipient of six Laurence Olivier Awards, a Tony Award, a Golden Globe Award, a Screen Actors Guild Award, a BIF Award, two Saturn Awards, four Drama Desk Awards and two Critics' Choice Awards. He has also received two Academy Award nominations, four BAFTA nominations and five Emmy Award nominations. McKellen's work spans genres ranging from Shakespearean and modern theatre to popular fantasy and science fiction. His notable film roles include Gandalf in The Lord of the Rings and The Hobbit trilogies and Magneto in the X-Men films.</p>
+    <p>McKellen was appointed Commander of the Order of the British Empire in 1979, was knighted in 1991 for services to the performing arts, and was made a Companion of Honour for services to drama and to equality, in the 2008 New Year Honours. He was made a Freeman of the City of London in October 2014.</p>
+  </body>
+</html>
+
+
+
+
+
+
+
+	css:
+img {
+  margin: 30px auto;
+  height: 400px;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, Times, serif;
+}
+
+p {
+  width: 700px;
+  margin: 30px auto;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: Georgia, Times, serif;
+  text-align: justify;
+}

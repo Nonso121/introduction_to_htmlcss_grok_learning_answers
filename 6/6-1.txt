@@ -1,0 +1,14 @@
+body {
+  background-image: url(snapcat.jpg);
+  background-repeat: no-repeat;
+}
+
+p {
+  width: 360px;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 8px 0;
+  font-family: sans-serif;
+  margin-top: 500px;
+}

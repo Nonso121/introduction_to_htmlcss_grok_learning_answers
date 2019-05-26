@@ -1,0 +1,152 @@
+	html:
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Argleton Advertiser</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <header>
+      <h1 class="title">The Argleton Advertiser</h1>
+    </header>
+    <ul>
+      <li>World</li>
+      <li>Argleton</li>
+      <li>Economy</li>
+      <li>Opinion</li>
+      <li>Technology</li>
+      <li>Science</li>
+      <li>Health</li>
+      <li>Sports</li>
+      <li>Arts</li>
+      <li>Food</li>
+      <li>Travel</li>
+    </ul>
+    <section class="snippets">
+      <div class="column">
+        <article>
+          <h3>Trade deficit at an all time high</h3>
+          <p>With the exchange rate remaining unfavourable for exporters and increased demand for overseas products, the flow of money overseas is the highest it's been in the last ten years. </p>
+        </article>
+        <article>
+          <h3>Man Bites Dog</h3>
+          <img src="dog.jpg">
+          <p>It's often said, if a dog bites a man it's not news, but if a man bites a dog, you've got a story. Well, here is that story.</p>
+        </article>
+        <article>
+          <h3>Small Medium at Large!</h3>
+          <p>A dwarf man   in prison for fraudulent activities from his psychic predictions business has escaped from prison.</p>
+        </article>
+      </div>
+      <div class="column">
+        <article>
+          <h3>Small Step for Man, One Giant Funding Cut for NASA</h3>
+          <p>The US Governement has announced further cuts to NASA's budget following cuts earlier this year.</p>
+        </article>
+        <article>
+          <h3>Farewell Dana Edwards</h3>
+          <p>Argleton farewells local television personality, Dana Edwards, 84, who passed away peacefully yesterday.</p>
+        </article>
+        <article>
+          <h3>Rain, Hail, Lightning, ... Trees</h3>
+          <img src="storm.jpg">
+          <p>Three days of storms have caused significant damage across the city, but meteorologists say that this is only the beginning.</p>
+        </article>
+      </div>
+    </section>
+    <section class="headlines">
+      <article>
+        <h2>Stunning Rainbow in Sydney!</h2>
+        <img src="rainbow.jpg">
+        <p>Image credit: Nick Verne</p>
+        <p>The storm clouds parted and Sydney was greeted by a spectacular double rainbow. Social media exploded in response, as people rushed to share their photos online.</p>
+        <p>Professor Blaggins from the School of Physics at the University of Argleton said that "double rainbows are caused by a double reflection of sunlight inside the raindrops.</p>
+        <p>"The secondary rainbow is fainter than the primary because more light is absorbed from two reflections compared to one, and the secondary rainbow is spread over more of the sky".</p>
+        <p>If you've taken a great photo of a rainbow here in Argleton, send it in to <a href="#">readers@argletonadvertiser.co.uk</a>.</p>
+      </article>
+    </section>
+  </body>
+</html>
+
+
+
+
+	css:
+@import url("https://fonts.googleapis.com/css?family=UnifrakturMaguntia");
+
+* { box-sizing: border-box; }
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  font-size: 14px;
+}
+
+img {
+  padding: 2px;
+  border: 1px solid lightgray;
+  width: 100%;
+  display: block;
+}
+
+/* Header */
+.title {
+  font-family: 'UnifrakturMaguntia', cursive;
+  text-align: center;
+  margin-bottom: 8px;
+  font-size: 40px;
+}
+
+/* Nav bar */
+ul {
+  text-align: center;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  font-size: 12px;
+  padding: 5px;
+}
+
+/* Column/section layout */
+section {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.headlines {
+  width: 370px;
+  padding: 6px;
+}
+
+.column {
+  width: 260px;
+  display: inline-block;
+  border-right: 1px solid rgb(200, 200, 200);
+  padding: 6px;
+  vertical-align: top;
+}
+
+/* Articles */
+article {
+  font-family: serif;
+  padding-bottom: 10px;
+}
+
+article > h2 {
+  margin: 0;
+  padding-top: 4px;
+}
+
+article > h3 {
+  margin: 0;
+  padding-top: 4px;
+}
+
+article > p {
+  margin: 0;
+  padding-top: 4px;
+}

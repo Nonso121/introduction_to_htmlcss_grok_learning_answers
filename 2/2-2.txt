@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
+
+<h1>
+  <span style="color: rgb(0, 0, 0)">Kermit</span>
+  <span style="color: rgb(240, 255, 240)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 40, 0)">Kermit</span>
+  <span style="color: rgb(200, 255, 200)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 80, 0)">Kermit</span>
+  <span style="color: rgb(160, 255, 160)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 120, 0)">Kermit</span>
+  <span style="color: rgb(120, 255, 120)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 160, 0)">Kermit</span>
+  <span style="color: rgb(80, 255, 80)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 200, 0)">Kermit</span>
+  <span style="color: rgb(40, 255, 40)">Kermit</span>
+</h1>
+<h1>
+  <span style="color: rgb(0, 240, 0)">Kermit</span>
+  <span style="color: rgb(0, 255, 0)">Kermit</span>
+</h1>
