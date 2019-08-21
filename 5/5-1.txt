@@ -1,3 +1,4 @@
+  html:
 <!DOCTYPE html>
 <html>
   <head>
@@ -15,3 +16,19 @@
     </div>
   </body>
 </html>
+
+
+
+  css：
+  body {
+  background-color: lightskyblue;
+  font-family: cursive;
+}
+
+div {
+  width: 220px;
+  text-align: center;
+  background-color: white;
+  padding: 15px;
+  margin: 10px;
+}
