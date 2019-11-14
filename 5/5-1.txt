@@ -32,3 +32,42 @@ div {
   padding: 15px;
   margin: 10px;
 }
+
+
+
+Other Solution:
+  html:
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>Shake it like a polaroid picture</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+      <div class='insert'>
+      <img src="luna.jpg" alt="Front entrance of Luna Park">
+      <p>Luna Park 14 June 2015</p>
+      </div>
+      <div class='insert'>
+      <img src="ferris.jpg" alt="Ferris wheel">
+      <p>Ferris wheel 14 June 2015</p>
+      </div>
+  </body>
+</html>
+
+
+
+css:
+
+body{
+  background-color:lightskyblue;
+  font-family:cursive;
+}
+
+.insert{
+  background-color:white;
+  width:220px;
+  padding:15px;
+  margin:10px;
+  text-align:center
+}
