@@ -1,3 +1,5 @@
+Html:
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -30,3 +32,39 @@
     </div>
   </body>
 </html>
+
+
+
+Css:
+
+@import url(http://fonts.googleapis.com/css?family=Slackey);
+
+* { box-sizing: border-box; }
+
+header {
+  text-align: center;
+  padding: 50px;
+  height: 250px;
+  background-image: url(aquarium_hero.jpg);
+  font-family: 'Slackey';
+}
+
+body {
+  background-color: rgb(0, 0, 48);
+  color: white;
+}
+
+div {
+  display: inline-block;
+  width: 270px;
+  vertical-align: top;
+  margin: 30px;
+}
+
+h2 {
+ text-align: center;
+}
+
+img {
+  width: 100%;
+}
