@@ -1,0 +1,24 @@
+CSS:
+* { box-sizing: border-box; }
+
+body {
+  padding: 50px;
+}
+article {
+ display: inline-block;
+  width: 550px;
+  vertical-align: top;
+}
+
+aside {
+  display: inline-block;
+  width: 300px;
+  background-color: gold;
+  padding: 25px;
+  margin-left: 50px;
+}
+
+aside > h1 {
+  color: green;
+}
+ 
